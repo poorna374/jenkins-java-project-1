@@ -9,7 +9,7 @@
 	<url>http://maven.apache.org</url>
 	
 	<properties>
-		<docker.image.prefix>kammana</docker.image.prefix>
+		<docker.image.prefix>kammana</docker.image.prefix>..
 	</properties>	
 	<dependencies>
 		<dependency>
